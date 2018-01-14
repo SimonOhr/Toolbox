@@ -1,0 +1,7 @@
+C:\Users\Simon\Documents\GitHub\Toolbox\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Users\Simon\Documents\GitHub\Toolbox\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Users\Simon\Documents\GitHub\Toolbox\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\Simon\Documents\GitHub\Toolbox\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\GitHub\Toolbox\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Users\Simon\Documents\GitHub\Toolbox\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+C:\Users\Simon\Documents\GitHub\Toolbox\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
